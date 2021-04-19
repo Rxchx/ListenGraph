@@ -1,6 +1,6 @@
 /**
  * Verwaltet die unterschiedlichen Knoten in Form einer Liste
- * 
+ * Marius ist ein komischer Typ
  * @param anzahlKnoten
  *  	die jetztige anzahl der Knoten in der Liste. Startet bei 0
  * @param anfang 
